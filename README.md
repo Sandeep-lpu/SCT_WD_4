@@ -34,3 +34,11 @@ This app makes adding and managing tasks fun with smooth animations, dark/light 
 2. Open the folder in your code editor.
 
 3. Run the app by simply opening index.html in your browser.
+
+👨‍💻 Tech Stack
+
+HTML5
+
+CSS3 (Flexbox, Animations, Shadows)
+
+JavaScript (DOM, Event Handling, Theme Toggle)
